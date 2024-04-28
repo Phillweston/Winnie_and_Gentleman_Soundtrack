@@ -1,0 +1,5 @@
+name=Jiang Zeming
+image=Ha.jpeg
+author=Alpha by TELEGRAM@Kaishek_Chiang
+
+Version£ºalpha_0.1

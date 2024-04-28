@@ -1,0 +1,5 @@
+name=Winnie
+image=Xijinping.jpg
+author=°×·¢ÓæéÔ
+
+Version£º1.0
